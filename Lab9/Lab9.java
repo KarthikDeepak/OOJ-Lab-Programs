@@ -24,7 +24,7 @@ class NewThread implements Runnable
    }
 }
 
-class Week11Lab
+class Week9
 {
 	public static void main(String ss[])
 	{
